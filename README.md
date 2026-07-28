@@ -1,35 +1,29 @@
 # Bozhidar Atanasov
 
-Full-stack software engineer from Sofia, Bulgaria. I work across two stacks: .NET (EF Core, Blazor)
-on my current contract, and TypeScript / Node.js / React on freelance and personal projects.
-Docker, PostgreSQL, and a self-hosted Kubernetes cluster that runs my own projects.
+Full-stack software engineer in Sofia, Bulgaria. I build web platforms and backend
+systems in .NET and TypeScript, and I self-host what I ship. Over 1,700 contributions
+in the last year.
 
-Slightly odd combination: I am also finishing an MSc in Financial Control and working through the
-ACCA exams. Knowing how accountants think makes finance software a lot easier to build.
+**Stack:** C# / .NET (EF Core, Blazor), TypeScript, React / Next.js, Node.js, PostgreSQL, Docker, Kubernetes
 
-## Where I work
+**Now:** contract developer at [Comhard GmbH](https://www.comhard.de/) in Berlin, actively
+working on CSPS, their scheduling platform, and owning features from it. Freelance work
+through [I&B Services](https://ibservices.info/).
 
-- [Comhard GmbH](https://www.comhard.de/) (Berlin), contract software developer. I actively work on
-  CSPS, their browser-based scheduling platform, and own features from it. .NET, EF Core, Blazor.
-- [I&B Services](https://ibservices.info/), full-stack engineer. Client work includes live quoting
-  infrastructure for a U.S. auto-transport platform.
-- Previously at ForkPoint: Salesforce, data analysis, and web work for U.S. clients.
+**The odd part:** MSc in Financial Control and ACCA exams in progress. Software plus
+accounting in one head makes finance systems a lot easier to build.
 
-## Things I have built
+## Selected work
 
-- [agro_calc](https://github.com/Bozhidar-A/agro_calc), my bachelor thesis work: crop planning
-  calculators for Bulgarian farmers. 81% test coverage, CI/CD, Dockerized, live at
-  [agro-calc.musaka.top](https://agro-calc.musaka.top)
-- [exam-helper](https://github.com/Bozhidar-A/exam-helper), practice tool for the Bulgarian State
-  Maturity Exam, with its own [API](https://github.com/Bozhidar-A/exam-helper-api)
-- [music-m-player](https://github.com/Bozhidar-A/music-m-player), web player that queues tracks
-  from multiple sources into one playlist, live on [Vercel](https://music-m-player.vercel.app/)
+- [agro_calc](https://github.com/Bozhidar-A/agro_calc), my bachelor thesis: crop planning
+  calculators for Bulgarian farmers. 81% test coverage, CI/CD, Dockerized, live on my own
+  k8s cluster at [agro-calc.musaka.top](https://agro-calc.musaka.top)
+- [exam-helper](https://github.com/Bozhidar-A/exam-helper) plus its
+  [API](https://github.com/Bozhidar-A/exam-helper-api), a practice tool for the Bulgarian
+  State Maturity Exam
+- [music-m-player](https://github.com/Bozhidar-A/music-m-player), one playlist for tracks
+  from multiple sources, live on [Vercel](https://music-m-player.vercel.app/)
 
-## Background
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bozhidar-A&show_icons=true&theme=transparent)
 
-- BSc Software Engineering, University of Ruse (2021-2025)
-- MSc Financial Control, UNWE Sofia (in progress), plus ACCA papers FR, PM, TX
-- CCNAv7, Cambridge C2 English
-
-Reach me at bplatanasov@gmail.com or on
-[LinkedIn](https://www.linkedin.com/in/bozhidar-atanasov-6b6126248/).
+**Contact:** bplatanasov@gmail.com | [LinkedIn](https://www.linkedin.com/in/bozhidar-atanasov-6b6126248/)
