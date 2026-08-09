@@ -10,8 +10,8 @@ Linux, Docker, and a small k8s cluster on a VPS.
 working on CSPS, their scheduling platform, and owning features from it. Freelance work
 through [I&B Services](https://ibservices.info/), including LLM automation and integration.
 
-**The odd part:** MSc in Financial Control and ACCA exams in progress. Software plus
-accounting in one head makes finance systems a lot easier to build.
+**The odd part:** an MSc in Financial Control, finished June 2026, with ACCA exams in
+progress. Software plus accounting in one head makes finance systems a lot easier to build.
 
 ## Selected work
 
