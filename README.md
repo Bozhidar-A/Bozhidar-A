@@ -8,7 +8,7 @@ in the last year.
 
 **Now:** contract developer at [Comhard GmbH](https://www.comhard.de/) in Berlin, actively
 working on CSPS, their scheduling platform, and owning features from it. Freelance work
-through [I&B Services](https://ibservices.info/).
+through [I&B Services](https://ibservices.info/), including LLM automation and integration.
 
 **The odd part:** MSc in Financial Control and ACCA exams in progress. Software plus
 accounting in one head makes finance systems a lot easier to build.
