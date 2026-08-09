@@ -1,8 +1,8 @@
 # Bozhidar Atanasov
 
 Full-stack software engineer in Sofia, Bulgaria. I build web platforms and backend
-systems in .NET and TypeScript, and I self-host what I ship. Over 1,700 contributions
-in the last year.
+systems in .NET and TypeScript, and most of what I ship runs on my own homelab:
+Linux, Docker, and a small k8s cluster on a VPS.
 
 **Stack:** C# / .NET (EF Core, Blazor), TypeScript, React / Next.js, Node.js, PostgreSQL, Docker, Kubernetes
 
