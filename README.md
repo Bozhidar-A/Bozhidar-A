@@ -2,9 +2,9 @@
 
 Full-stack software engineer in Sofia, Bulgaria. I build web platforms and backend
 systems in .NET and TypeScript, and most of what I ship runs on my own homelab:
-Linux, Docker, and a small k8s cluster on a VPS.
+Linux and Docker on a VPS.
 
-**Stack:** C# / .NET (EF Core, Blazor), TypeScript, React / Next.js, Node.js, PostgreSQL, Docker, Kubernetes
+**Stack:** C# / .NET (EF Core, Blazor), TypeScript, React / Next.js, Node.js, PostgreSQL, Docker
 
 **Now:** contract developer at [Comhard GmbH](https://www.comhard.de/) in Berlin, actively
 working on CSPS, their scheduling platform, and owning features from it. Freelance work
@@ -18,7 +18,7 @@ Assurance next. Software plus accounting in one head makes finance systems a lot
 
 - [agro_calc](https://github.com/Bozhidar-A/agro_calc), my bachelor thesis: crop planning
   calculators for Bulgarian farmers. 81% test coverage, CI/CD, Dockerized, live on my own
-  k8s cluster at [agro-calc.musaka.top](https://agro-calc.musaka.top)
+  VPS at [agro-calc.musaka.top](https://agro-calc.musaka.top)
 - [exam-helper](https://github.com/Bozhidar-A/exam-helper) plus its
   [API](https://github.com/Bozhidar-A/exam-helper-api), a practice tool for the Bulgarian
   State Maturity Exam
